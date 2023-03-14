@@ -1,0 +1,10 @@
+D:\Test_KhongVanTuyen\Call_API\Call_API\bin\Debug\Call_API.exe.config
+D:\Test_KhongVanTuyen\Call_API\Call_API\bin\Debug\Call_API.exe
+D:\Test_KhongVanTuyen\Call_API\Call_API\bin\Debug\Call_API.pdb
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.csproj.AssemblyReference.cache
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.Form1.resources
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.Properties.Resources.resources
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.csproj.GenerateResource.cache
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.csproj.CoreCompileInputs.cache
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.exe
+D:\Test_KhongVanTuyen\Call_API\Call_API\obj\Debug\Call_API.pdb

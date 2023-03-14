@@ -1,0 +1,218 @@
+[2023-03-12 06:36:40.563Z][Core..] EditorAppWindows started with params:
+[2023-03-12 06:36:40.571Z][Core..] startAction:createFileProject
+[2023-03-12 06:36:40.571Z][Core..] recentProjects:null
+[2023-03-12 06:36:40.572Z][Core..] documentationURL:https://balsamiq.com/wireframes/desktop/docs
+[2023-03-12 06:36:40.572Z][Core..] balsamiqWebsiteBaseURL:https://balsamiq.com
+[2023-03-12 06:36:40.572Z][Core..] feedbackURL:https://balsamiq.com/support/#/t/bwd
+[2023-03-12 06:36:40.572Z][Core..] permalinkEnabled:true
+[2023-03-12 06:36:40.600Z][Core..] BMPR_REV: 75b2611b009685af70b67e60df0be83adbf78bed
+[2023-03-12 06:36:40.600Z][Core..] BMPR_BRANCH: master
+[2023-03-12 06:36:40.600Z][Core..] B4_REV: 3ea38dd5925264047282e169e540610179f543fa
+[2023-03-12 06:36:40.600Z][Core..] B4_BRANCH: b4.win
+[2023-03-12 06:36:40.611Z][Core..] Network is offline
+[2023-03-12 06:36:40.612Z][Core..] Tasks: starting task 'DesktopEditorTask', 'task-0'
+[2023-03-12 06:36:40.680Z][Native] Make VM of type menubar
+[2023-03-12 06:36:40.720Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:41.844Z][Core..] made VC of type menubar with id ui-2
+[2023-03-12 06:36:41.915Z][Native] Make from file URL: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.051Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.095Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.443Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.447Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.447Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.531Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.533Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.533Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.615Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.617Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.617Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.689Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.693Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.693Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.761Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.762Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.762Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.843Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.845Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.845Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:42.964Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:42.965Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWriteOrCreate
+[2023-03-12 06:36:42.966Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWriteCreate
+[2023-03-12 06:36:43.003Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:43.010Z][Native] Removing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:43.013Z][Core..] Tasks: starting task 'Editor', 'task-1'
+[2023-03-12 06:36:43.014Z][Core..] time "EditorTask startup": started
+[2023-03-12 06:36:43.015Z][Core..] time "EditorTask startup": lap 1: 0ms, PathsLibrary added
+[2023-03-12 06:36:43.015Z][Core..] time "EditorTask startup": lap 2: 1ms, ViewControllers registered
+[2023-03-12 06:36:43.024Z][Core..] Current Selection:
+[2023-03-12 06:36:43.024Z][Core..] TargetType="mockup"
+[2023-03-12 06:36:43.024Z][Core..] TargetResourceID="undefined"
+[2023-03-12 06:36:43.024Z][Core..] SelectionType="none"
+[2023-03-12 06:36:43.034Z][Core..] ProjectVM: selectionType=mockups
+[2023-03-12 06:36:43.035Z][Core..] Current Selection:
+[2023-03-12 06:36:43.035Z][Core..] TargetType="mockup"
+[2023-03-12 06:36:43.035Z][Core..] TargetResourceID="undefined"
+[2023-03-12 06:36:43.035Z][Core..] SelectionType="mockups"
+[2023-03-12 06:36:43.053Z][Core..] time "EditorTask startup": lap 3: 38ms, VMs added
+[2023-03-12 06:36:43.055Z][Core..] time "EditorTask startup": lap 4: 1ms, before adding Editor VCs with helper
+[2023-03-12 06:36:43.058Z][Core..] time "EditorTaskHelper.addEditorVCs": started
+[2023-03-12 06:36:43.060Z][Native] Make VM of type editor
+[2023-03-12 06:36:43.061Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 1: 4ms, added editor
+[2023-03-12 06:36:43.189Z][Core..] made VC of type editor with id ui-3
+[2023-03-12 06:36:43.193Z][Native] Make VM of type emptyPanel
+[2023-03-12 06:36:43.193Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 2: 132ms, added emptyPanel
+[2023-03-12 06:36:43.212Z][Core..] made VC of type emptyPanel with id ui-4
+[2023-03-12 06:36:43.214Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.219Z][Native] Make VM of type mockup
+[2023-03-12 06:36:43.219Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 3: 26ms, added mockup
+[2023-03-12 06:36:43.614Z][Core..] made VC of type mockup with id ui-5
+[2023-03-12 06:36:43.621Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.634Z][Native] Make VM of type mockup
+[2023-03-12 06:36:43.634Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 4: 415ms, added mockup
+[2023-03-12 06:36:43.712Z][Core..] made VC of type mockup with id ui-6
+[2023-03-12 06:36:43.714Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.715Z][Native] Make VM of type asset
+[2023-03-12 06:36:43.715Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 5: 81ms, added asset
+[2023-03-12 06:36:43.722Z][Core..] made VC of type asset with id ui-7
+[2023-03-12 06:36:43.723Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.725Z][Native] Make VM of type mockupsnavigator
+[2023-03-12 06:36:43.725Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 6: 10ms, added mockupsnavigator
+[2023-03-12 06:36:43.756Z][Core..] made VC of type mockupsnavigator with id ui-8
+[2023-03-12 06:36:43.759Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.760Z][Native] Make VM of type mockupsnavigator
+[2023-03-12 06:36:43.760Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 7: 35ms, added mockupsnavigator
+[2023-03-12 06:36:43.772Z][Core..] made VC of type mockupsnavigator with id ui-9
+[2023-03-12 06:36:43.774Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.781Z][Native] Make VM of type appbar
+[2023-03-12 06:36:43.781Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 8: 21ms, added appbar
+[2023-03-12 06:36:43.869Z][Core..] made VC of type appbar with id ui-10
+[2023-03-12 06:36:43.884Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.890Z][Native] Make VM of type symbolsnavigator
+[2023-03-12 06:36:43.890Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 9: 109ms, added symbolsnavigator
+[2023-03-12 06:36:43.901Z][Core..] made VC of type symbolsnavigator with id ui-11
+[2023-03-12 06:36:43.903Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.906Z][Native] Make VM of type trashnavigator
+[2023-03-12 06:36:43.906Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 10: 16ms, added trashnavigator
+[2023-03-12 06:36:43.917Z][Core..] made VC of type trashnavigator with id ui-12
+[2023-03-12 06:36:43.918Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.921Z][Native] Make VM of type assetsnavigator
+[2023-03-12 06:36:43.921Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 11: 15ms, added assetsnavigator
+[2023-03-12 06:36:43.933Z][Core..] made VC of type assetsnavigator with id ui-13
+[2023-03-12 06:36:43.934Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.936Z][Native] Make VM of type assetsnavigator
+[2023-03-12 06:36:43.936Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 12: 15ms, added assetsnavigator
+[2023-03-12 06:36:43.948Z][Core..] made VC of type assetsnavigator with id ui-14
+[2023-03-12 06:36:43.948Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:43.951Z][Native] Make VM of type projectinfo
+[2023-03-12 06:36:43.951Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 13: 15ms, added projectinfo
+[2023-03-12 06:36:44.348Z][Core..] made VC of type projectinfo with id ui-15
+[2023-03-12 06:36:44.349Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.353Z][Native] Make VM of type mockupInfo
+[2023-03-12 06:36:44.353Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 14: 402ms, added mockupInfo
+[2023-03-12 06:36:44.415Z][Core..] made VC of type mockupInfo with id ui-16
+[2023-03-12 06:36:44.417Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.421Z][Native] Make VM of type assetInfo
+[2023-03-12 06:36:44.422Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 15: 68ms, added assetInfo
+[2023-03-12 06:36:44.480Z][Core..] made VC of type assetInfo with id ui-17
+[2023-03-12 06:36:44.481Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.482Z][Native] Make VM of type symbolInfo
+[2023-03-12 06:36:44.483Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 16: 61ms, added symbolInfo
+[2023-03-12 06:36:44.536Z][Core..] made VC of type symbolInfo with id ui-18
+[2023-03-12 06:36:44.539Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.543Z][Native] Make VM of type controlsInfo
+[2023-03-12 06:36:44.543Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 17: 61ms, added controlsInfo
+[2023-03-12 06:36:44.566Z][Core..] made VC of type controlsInfo with id ui-19
+[2023-03-12 06:36:44.567Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.568Z][Native] Make VM of type comments
+[2023-03-12 06:36:44.569Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 18: 25ms, added comments
+[2023-03-12 06:36:44.705Z][Core..] made VC of type comments with id ui-20
+[2023-03-12 06:36:44.708Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.710Z][Native] Make VM of type callouts
+[2023-03-12 06:36:44.711Z][Core..] time "EditorTaskHelper.addEditorVCs": lap 19: 142ms, added callouts
+[2023-03-12 06:36:44.715Z][Core..] made VC of type callouts with id ui-21
+[2023-03-12 06:36:44.717Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Mockup
+[2023-03-12 06:36:44.720Z][Core..] time "EditorTaskHelper.addEditorVCs": ended: 1663ms
+[2023-03-12 06:36:44.721Z][Core..] time "EditorTask startup": lap 5: 1667ms, added Editor VCs with helper
+[2023-03-12 06:36:44.721Z][Core..] time "EditorTask startup": lap 6: 0ms, before adding Editor VCs
+[2023-03-12 06:36:44.722Z][Native] Make VM of type topbar
+[2023-03-12 06:36:44.723Z][Core..] time "EditorTask startup": lap 7: 2ms, added topbar
+[2023-03-12 06:36:44.822Z][Core..] made VC of type topbar with id ui-22
+[2023-03-12 06:36:44.823Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.877Z][Native] Make VM of type uiLibrary
+[2023-03-12 06:36:44.877Z][Core..] time "EditorTask startup": lap 8: 154ms, added uiLibrary
+[2023-03-12 06:36:44.895Z][Core..] made VC of type uiLibrary with id ui-23
+[2023-03-12 06:36:44.896Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:44.900Z][Native] Make VM of type connectedUsers
+[2023-03-12 06:36:44.900Z][Core..] time "EditorTask startup": lap 9: 23ms, added connectedUsers
+[2023-03-12 06:36:44.989Z][Core..] made VC of type connectedUsers with id ui-24
+[2023-03-12 06:36:44.991Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.TopBar
+[2023-03-12 06:36:44.997Z][Native] Make VM of type chat
+[2023-03-12 06:36:44.998Z][Core..] time "EditorTask startup": lap 10: 97ms, added chat
+[2023-03-12 06:36:45.087Z][Core..] made VC of type chat with id ui-25
+[2023-03-12 06:36:45.089Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:45.095Z][Native] Make VM of type onboarding
+[2023-03-12 06:36:45.095Z][Core..] time "EditorTask startup": lap 11: 98ms, added onboarding
+[2023-03-12 06:36:45.099Z][Core..] made VC of type onboarding with id ui-26
+[2023-03-12 06:36:45.100Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:45.102Z][Native] Make VM of type notifications
+[2023-03-12 06:36:45.103Z][Core..] time "EditorTask startup": lap 12: 8ms, added notifications
+[2023-03-12 06:36:45.116Z][Core..] made VC of type notifications with id ui-27
+[2023-03-12 06:36:45.116Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:45.118Z][Native] Make VM of type LicenseBarVC
+[2023-03-12 06:36:45.118Z][Core..] time "EditorTask startup": lap 13: 15ms, added LicenseBarVC
+[2023-03-12 06:36:45.124Z][Core..] made VC of type LicenseBarVC with id ui-28
+[2023-03-12 06:36:45.125Z][Native] adding child BalsamiqWireframesCommon.UIObject in BalsamiqWireframesCommon.ViewModels.Editor
+[2023-03-12 06:36:45.128Z][Core..] time "EditorTask startup": lap 14: 10ms, added Editor VCs
+[2023-03-12 06:36:45.128Z][Core..] time "EditorTask startup": lap 15: 0ms, added all VCs
+[2023-03-12 06:36:45.128Z][Core..] time "EditorTask startup": lap 16: 0ms, pushing EditorVC
+[2023-03-12 06:36:45.129Z][Core..] begin push nativeID: ui-3
+[2023-03-12 06:36:45.147Z][Core..] end push nativeID: ui-3
+[2023-03-12 06:36:45.148Z][Core..] time "EditorTask startup": lap 17: 20ms, EditorVC pushed
+[2023-03-12 06:36:45.148Z][Core..] time "EditorTask startup": lap 18: 0ms, allDone
+[2023-03-12 06:36:45.149Z][Core..] time "EditorTask startup": lap 19: 0ms, before StartupDoneCallback
+[2023-03-12 06:36:45.149Z][Core..] time "EditorTask startup": lap 20: 1ms, after StartupDoneCallback
+[2023-03-12 06:36:45.149Z][Core..] time "EditorTask startup": ended: 2.13s
+[2023-03-12 06:36:45.151Z][Core..] Tasks: starting task 'Load Project', 'task-2'
+[2023-03-12 06:36:45.152Z][Core..] Tasks: starting task 'Init Module', 'task-3'
+[2023-03-12 06:36:45.165Z][Core..] Tasks: finished task 'Init Module', 'task-3'
+[2023-03-12 06:36:45.167Z][Core..] OperationQueue: started operation 'Generic Operation' op-0
+[2023-03-12 06:36:45.171Z][Native] EditLocalFileOf
+[2023-03-12 06:36:45.173Z][Native] Make from file URL: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:45.179Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode read
+[2023-03-12 06:36:45.179Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadOnly
+[2023-03-12 06:36:45.194Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:45.195Z][Core..] ArchiveState synchronized: true
+[2023-03-12 06:36:45.196Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWrite
+[2023-03-12 06:36:45.196Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWrite
+[2023-03-12 06:36:45.258Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:45.259Z][Native] Opening: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr in mode readWrite
+[2023-03-12 06:36:45.259Z][Native] Data Source="C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr";Mode=ReadWrite
+[2023-03-12 06:36:45.268Z][Native] Closing: C:\Users\thuph\AppData\Roaming\Balsamiq\Balsamiq Wireframes\UnsavedProjects\New Project 1.bmpr
+[2023-03-12 06:36:45.269Z][Core..] time "Load Project": started
+[2023-03-12 06:36:45.271Z][Core..] time "Load Resources": started
+[2023-03-12 06:36:45.282Z][Core..] time "Load Resources": lap 1: 11ms, kind:mockup, name:New Wireframe 1, branchID:Mast, resourceID:0303
+[2023-03-12 06:36:45.283Z][Core..] time "Load Resources": ended: 12ms
+[2023-03-12 06:36:45.285Z][Core..] time "Load Project": lap 1: 16ms, all loaded
+[2023-03-12 06:36:45.287Z][Core..] time "Load Project": lap 2: 1ms, updateThumbnail
+[2023-03-12 06:36:45.288Z][Core..] time "Load Project": lap 3: 2ms, notify
+[2023-03-12 06:36:45.288Z][Core..] time "Load Project": lap 4: 0ms, PROJECT_LOADED
+[2023-03-12 06:36:45.288Z][Core..] time "Load Project": ended: 19ms
+[2023-03-12 06:36:45.289Z][Core..] OperationQueue: ended operation 'Generic Operation' op-0
+[2023-03-12 06:36:45.291Z][Core..] ProjectVM setBranches: []
+[2023-03-12 06:36:45.507Z][Core..] Current Selection:
+[2023-03-12 06:36:45.507Z][Core..] TargetType="mockup"
+[2023-03-12 06:36:45.507Z][Core..] TargetResourceID="03038B6C-1CCD-48A3-AC3F-207CAFA17018"
+[2023-03-12 06:36:45.507Z][Core..] SelectionType="mockups"
+[2023-03-12 06:36:45.746Z][Core..] time "ControlsLibraryVM.onProjectLoaded": started
+[2023-03-12 06:36:45.748Z][Core..] time "ControlsLibraryVM.onProjectLoaded": lap 1: 2ms, init done
+[2023-03-12 06:36:46.551Z][Core..] time "ControlsLibraryVM.onProjectLoaded": lap 2: 803ms, buildIconsThumbnails
+[2023-03-12 06:36:47.085Z][Core..] time "ControlsLibraryVM.onProjectLoaded": lap 3: 534ms, rebuildAllThumbnails
+[2023-03-12 06:36:47.086Z][Core..] time "ControlsLibraryVM.onProjectLoaded": ended: 1340ms
+[2023-03-12 06:36:47.133Z][Core..] Tasks: finished task 'Load Project', 'task-2'
+[2023-03-12 06:36:47.133Z][Core..] load project task finished
+[2023-03-12 06:36:47.176Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:48.467Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:48.468Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:49.143Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:50.616Z][Core..] Settings.settingsChangedEvent
+[2023-03-12 06:36:52.800Z][Core..] Settings.settingsChangedEvent
